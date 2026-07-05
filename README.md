@@ -32,3 +32,13 @@ As inversões locais são contadas percorrendo o vetor apenas uma vez e comparan
 
 Apesar de existir uma solução em **O(n)** para este problema, o objetivo desta atividade foi resolver o exercício utilizando Árvores AVL.
 
+
+<img width="1349" height="571" alt="image" src="https://github.com/user-attachments/assets/6571741a-063c-4df2-bc72-08c0d79cbd78" />
+
+
+
+
+<img width="1360" height="490" alt="image" src="https://github.com/user-attachments/assets/529ed062-03bc-4b88-9fc5-2dd466529916" />
+
+
+
